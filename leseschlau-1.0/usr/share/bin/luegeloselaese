@@ -1,0 +1,5 @@
+#!/bin/sh
+
+wine /usr/share/prop/leseschlau/Start.exe
+
+

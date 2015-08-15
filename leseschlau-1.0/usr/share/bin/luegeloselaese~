@@ -1,5 +1,0 @@
-#!/bin/sh
-
-wine /usr/share/prop/luegeloselaese/Start.exe
-
-
